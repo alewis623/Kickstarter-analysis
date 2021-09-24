@@ -4,7 +4,7 @@ Performing analysis on Kickstarter data to uncover trends
 ---
 ## Please review the following charts
 ---
-You can see that from the data June is a great month to launch the Kickstarter
+You can see that from the data May is a great month to launch the Kickstarter
 ![Outcomes_based_by_launch_date](https://user-images.githubusercontent.com/90878901/134421517-55e65962-fb5f-4b65-855d-f882798d72c6.png)
 ---
 Plays are successful and popular
